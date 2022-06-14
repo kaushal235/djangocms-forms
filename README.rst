@@ -22,7 +22,7 @@ This project requires django-cms v3.6 or higher to be properly installed and con
 
 This package is compatible with `Aldryn <http://www.aldryn.com/en/marketplace/djangocms-forms/>`_.
 
-This version uses https://github.com/praekelt/django-recaptcha for ReCaptcha capabilities.
+This version uses https://github.com/torchbox/django-recaptcha for ReCaptcha capabilities.
 
 Quickstart
 ----------

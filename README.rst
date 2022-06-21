@@ -18,11 +18,22 @@ djangocms-forms-maintained
    :target: https://www.codefactor.io/repository/github/avryhof/djangocms-forms
    :alt: CodeFactor
 
+.. image:: https://img.shields.io/badge/Donate-PayPal-green.svg
+   :target: https://paypal.me/avryhof?country.x=US&locale.x=en_US
+   :alt: Donate
+
 This project requires django-cms v3.6 or higher to be properly installed and configured.
 
 This package is compatible with `Aldryn <http://www.aldryn.com/en/marketplace/djangocms-forms/>`_.
 
 This version uses https://github.com/torchbox/django-recaptcha for ReCaptcha capabilities.
+
+**Resurrected DjangoCMS Projects**
+
+* https://pypi.org/project/aldryn-bootstrap3-resurrected/
+* https://pypi.org/project/cmsplugin-filer-resurrected/
+* https://pypi.org/project/djangocms-forms-maintained/
+
 
 Quickstart
 ----------

@@ -57,9 +57,6 @@
     {% endif %}
 {% endaddtoblock %}
 {% addtoblock "js" %}
-    {% if instance.use_recaptcha %}
-        <script src="https://www.google.com/recaptcha/api.js?onload=reCapctchaOnloadCallback&render=explicit" async defer></script>
-    {% endif %}
 	<script src="{% static 'js/djangocms_forms/libs/jquery.form.min.js' %}"></script>
 	<script src="{% static 'js/djangocms_forms/jquery.djangocms-forms.js' %}"></script>
 
